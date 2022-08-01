@@ -3,8 +3,8 @@ package Controlador;
 
 public enum TipoDocumentoEnum {
     SeleccioneUnaOpcion,
-    CedulaCuidadania,
-    CedulaExtranjeria,
+    CedulaCiudadania,
+    CedulaExtranjera,
     LibretaMilitar,
     Pasaporte,
     Otro
