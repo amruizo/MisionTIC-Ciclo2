@@ -391,7 +391,7 @@ public final class UserMenu extends javax.swing.JFrame {
 
             },
             new String [] {
-                "Nombre", "Apellido(s)", "Tipo de Documento", "Documento", "Correo", "Sucursal"
+                "Nombre", "Apellido(s)", "Tipo de Documento", "Documento", "Correo", "Sucursal", "Puesto de Trabajo"
             }
         ));
         tblEmpleados.addMouseListener(new java.awt.event.MouseAdapter() {
